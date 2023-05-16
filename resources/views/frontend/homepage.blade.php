@@ -6,9 +6,9 @@
       <div class="container">
           <div class="hero__item set-bg" data-setbg="{{ asset('frontend/img/hero/banner.jpg') }}">
               <div class="hero__text">
-                  <span>FRUIT FRESH</span>
-                  <h2>Vegetable <br />100% Organic</h2>
-                  <p>Free Pickup and Delivery Available</p>
+                  <span>Fresh Ingredients</span>
+                  <h2>Healthy<br />100% Fresh</h2>
+                  <p></p>
                   <a href="#" class="primary-btn">SHOP NOW</a>
               </div>
           </div>
